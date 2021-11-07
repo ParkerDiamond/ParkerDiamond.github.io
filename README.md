@@ -1,2 +1,2 @@
-# jparkerdiamond.github.io
+# ParkerDiamond.github.io
 WIP
